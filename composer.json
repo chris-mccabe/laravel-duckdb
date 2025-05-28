@@ -1,5 +1,5 @@
 {
-    "name": "harish81/laravel-duckdb",
+    "name": "chris-mccabe/laravel-duckdb",
     "description": "DuckDB CLI wrapper to interact with duckdb databases through laravel query builder.",
     "keywords": [
         "harish81",
